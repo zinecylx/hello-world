@@ -1,3 +1,3 @@
 # hello-world
-an repository sepository
+an repository repository
 I write this for explain why and how I change this doc.
